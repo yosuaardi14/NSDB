@@ -1,1 +1,5 @@
 # NSDB
+
+Clan 
+Crew
+Cooperative
